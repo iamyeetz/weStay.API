@@ -16,10 +16,10 @@
 //     (also to view photos in bigger size) 
 //  -- I chose react instead of creating a view here in .net using razor to challenge myself on integration of react to .net core and to see if
 //     i can make it fullstack and to implement SPA
-//  -- In backend I implemented dependency injection, Interfaces and used entity framework core v.3.1.10 (code first migration) , I was planning
-//  -- to put a api gateway using ocelot so that front end cannot access directly the API and to really implement SRP. but yeah, I really spent 
-//     most time creating the front.
+//  -- In backend I implemented dependency injection, Interfaces and used entity framework core v.3.1.10 (code first migration) also enable CORS,
+//     I was planning to put a api gateway using ocelot so that front end cannot access directly the API and to really implement SRP. but yeah,
+//     I really spent  most time creating the front
 //  -- In front end when im designing it I used the resources that is available that i can install like the FullCalendar that shows the date
-//     that has booking and let you pick a date by simple clicking it. 
+//     that has booking and let you pick a date by simple clicking it.
 //  -- here my resume https://drive.google.com/file/d/1dKdv1LgiMlOZW_GIDrormoRFholK0paq/view?usp=sharing
-//  
+//  -- oh i forgot to mention , i forgot to implement caching 
